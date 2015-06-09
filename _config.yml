@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Inicio
 locale:           en_US
 url:              
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jose Pereira
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Economista, Entusiasta de la Data"
+  email: japn65@gmail.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jose-antonio-pereira-n
   xing: #username
   instagram: #username
   lastfm: #username
