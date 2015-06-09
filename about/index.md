@@ -10,4 +10,6 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Economista que analiza al mercado de renta fija emergente, especialmente Venezuela, pero también Brasil, Colombia,  México y Perú. Científico de la data (En Entrenamiento) que analiza eventos que despiertan mi curiosidad.   
+Economista que analiza al mercado de renta fija emergente, especialmente Venezuela, pero también Brasil, Colombia,  México y Perú.   
+Científico de la data (En Entrenamiento) que analiza eventos que despiertan mi curiosidad.  
+
